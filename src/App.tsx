@@ -4,6 +4,8 @@ import Header from "./components/Header";
 import MainContainer from "./components/MainContainer";
 import SectionForm from "./components/SectionForm";
 import AboutUs from "./components/AboutUs";
+import Services from "./components/Services";
+import GellerySection from "./components/GellerySection";
 
 function App() {
   return (
@@ -12,6 +14,8 @@ function App() {
       <MainContainer />
       <SectionForm />
       <AboutUs />
+      <Services />
+      <GellerySection />
     </>
   );
 }
