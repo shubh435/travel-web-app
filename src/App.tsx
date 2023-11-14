@@ -6,6 +6,8 @@ import SectionForm from "./components/SectionForm";
 import AboutUs from "./components/AboutUs";
 import Services from "./components/Services";
 import GellerySection from "./components/GellerySection";
+import Blogs from "./components/Blogs";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -16,6 +18,8 @@ function App() {
       <AboutUs />
       <Services />
       <GellerySection />
+      <Blogs />
+      <Footer />
     </>
   );
 }
