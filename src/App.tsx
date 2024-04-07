@@ -11,7 +11,7 @@ import Footer from "./components/Footer";
 import { BrowserRouter, Route, Routes } from "react-router-dom"
 import Setting from "./components/Setting";
 // @ts-ignore
-import json1 from "../apple-app-site-association";
+import json1 from "./apple-app-site-association";
 
 function App() {
   return (
