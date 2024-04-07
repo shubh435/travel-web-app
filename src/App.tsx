@@ -10,8 +10,6 @@ import Blogs from "./components/Blogs";
 import Footer from "./components/Footer";
 import { BrowserRouter, Route, Routes } from "react-router-dom"
 import Setting from "./components/Setting";
-// @ts-ignore
-import json1 from "./apple-app-site-association";
 
 function App() {
   return (
@@ -28,7 +26,6 @@ function App() {
           <Blogs />
           <Footer /> </div>} />
           <Route path="/settings"Component={Setting} />
-          <Route path="/apple-app-site-association"Component={json1} />
       </Routes>
     </BrowserRouter>
   );
