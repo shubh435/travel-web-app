@@ -4,10 +4,7 @@
         "details": [
         {
           "appID": "8PFJPBS8WA.com.extwebtech.practicedeeplinkingapp",
-          "paths": ["/settings","*/settings/*","/settings/"],
-          "platform": "web",
-          "url": "https://travel-web-app-mauve.vercel.app",
-          "browser_fallback_url": "https://travel-web-app-mauve.vercel.app/settings"
+          "paths": ["/settings","*/settings/*","/settings/"]
         }
       ]
     }
