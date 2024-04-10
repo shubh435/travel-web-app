@@ -4,7 +4,7 @@
         "details": [
         {
           "appID": "8PFJPBS8WA.com.extwebtech.practicedeeplinkingapp",
-          "paths": ["/settings/*","*"]
+          "paths": [""]
         }
       ]
     }
